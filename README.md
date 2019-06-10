@@ -2,7 +2,9 @@
 
 ## pruning
 ### unstructured pruning 
-### structured pruning 
+### structured pruning
+### knowledge distillation
+- [CVPR2019][Snapshot Distillation: Teacher-Student Optimization in One Generation](https://arxiv.org/pdf/1812.00123v1.pdf) - Chenglin Yang, Lingxi Xie, Chi Su, Alan L. Yuille
 
 
 
